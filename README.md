@@ -40,7 +40,7 @@ To function fully and offline, SMS Manager requests the following device permiss
 
 Ready to try it out? You can download the latest pre-compiled Android APK directly from our releases!
 
-⬇️ [**Download the Latest APK Release Here**](https://github.com/example/sms-manager/releases/latest)
+⬇️ [**Download the Latest APK Release Here**](https://github.com/thejulan/fake-sms/releases/latest)
 
 *(Once downloaded, tap the APK to install. You may need to enable "Install from Unknown Sources" in your Android settings.)*
 
